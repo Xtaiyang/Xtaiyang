@@ -23,7 +23,9 @@
 
 ## 💬 语录
 
-<div align="center">
+<table>
+  <tr>
+    <td valign="middle" width="55%">
 
 > *"代码能跑就行，别问为什么。"* — Xtaiyang
 >
@@ -33,7 +35,13 @@
 >
 > *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
 
-</div>
+    </td>
+    <td valign="middle" width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/Xtaiyang/Xtaiyang/main/assets/log-in-girl.svg" width="280" alt="Xtaiyang Coding" onerror="this.src='https://raw.githubusercontent.com/Xtaiyang/Xtaiyang/main/log-in-girl.svg'">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
