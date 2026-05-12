@@ -49,13 +49,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xtaiyang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtaiyang&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtaiyang&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%">
 
 </div>
@@ -110,61 +103,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Agents & Workflows</h3>
-      <p><b>LLM-powered Automation</b></p>
-      <p>基于 LLM 的智能代理，集成 MCP 协议与上下文工程，实现复杂任务编排</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/LLM-412991?logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/MCP-2088FF?logo=github&logoColor=white">
-    </td>
-    <td width="50%">
-      <h3>🎙️ Speech Recognition</h3>
-      <p><b>sherpa-onnx 集成方案</b></p>
-      <p>轻量化流式语音识别部署，支持实时 ASR 与关键词检测</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/ONNX-005C84?logo=onnx&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Browser Automation</h3>
-      <p><b>Playwright + RPA 工作流</b></p>
-      <p>浏览器自动化与 RPA 流程编排，提升业务处理效率</p>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    </td>
-    <td width="50%">
-      <h3>🐳 Microservices</h3>
-      <p><b>Docker + K8s + Celery 架构</b></p>
-      <p>容器化微服务部署，Celery 异步任务队列，高并发处理</p>
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Focus Areas
-
-<div align="center">
-
-| 🤖 AI & Agents | 🌐 Automation | 🎙️ Speech & Robot | ☁️ DevOps |
-|:---:|:---:|:---:|:---:|
-| LLM 应用开发 | Playwright 自动化 | 语音识别 (ASR) | Docker / K8s |
-| Prompt Engineering | RPA 工作流 | ROS 机器人 | Celery 异步任务 |
-| Context Engineering | 浏览器自动化 | ONNX 推理部署 | CI/CD 流水线 |
-| MCP 协议集成 | Vibe Coding | 关键词检测 | 微服务架构 |
-
-</div>
-
----
-
 ## 💬 Xtaiyang 的语录
 
 <div align="center">
@@ -178,6 +116,7 @@
 > *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
 
 </div>
+
 ---
 
 <div align="center">
@@ -185,7 +124,5 @@
 **感谢来访！** 🙏
 
 *我是 Xtaiyang，一个正在努力让 AI 帮我打工的程序员* 💪
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A7ADB&height=100&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%">
 
 </div>
