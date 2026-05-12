@@ -165,25 +165,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 Xtaiyang 的语录
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Xtaiyang&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="95%">
+> *"代码能跑就行，别问为什么。"* — Xtaiyang
+>
+> *"这不是 bug，这是 feature。"* — Xtaiyang
+>
+> *"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
+>
+> *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
 
 </div>
-
 ---
 
 <div align="center">
 
-### 💡 Fun Fact
+**感谢来访！** 🙏
 
-> ⚡ I let AI write the boilerplate so I can focus on the *vibe* 🎧✨
-
----
-
-**Thanks for visiting my profile!** 🙏
+*我是 Xtaiyang，一个正在努力让 AI 帮我打工的程序员* 💪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7A7ADB&height=100&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%">
 
