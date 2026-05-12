@@ -21,27 +21,19 @@
 
 ---
 
-## 🧙‍♂️ About Me
+## 💬 语录
 
-> *"I let AI write the boilerplate so I can focus on the vibe 🎧✨"*
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🔭 <b>Currently building</b>: LLM-powered AI Agents & automated workflows</li>
-        <li>🌱 <b>Currently learning</b>: Context Engineering & advanced AI orchestration</li>
-        <li>💬 <b>Ask me about</b>: Python, AI Agents, Vibe Coding, Playwright automation</li>
-        <li>📍 <b>Location</b>: 🇨🇳 Beijing (UTC+8)</li>
-        <li>💼 <b>Experience</b>: Software Developer (~3 years)</li>
-        <li>📫 <b>Contact</b>: <a href="mailto:shi2022108@163.com">shi2022108@163.com</a></li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtaiyang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%">
-    </td>
-  </tr>
-</table>
+> *"代码能跑就行，别问为什么。"* — Xtaiyang
+>
+> *"这不是 bug，这是 feature。"* — Xtaiyang
+>
+> *"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
+>
+> *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
+
+</div>
 
 ---
 
@@ -87,22 +79,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 💬 Xtaiyang 的语录
-
-<div align="center">
-
-> *"代码能跑就行，别问为什么。"* — Xtaiyang
->
-> *"这不是 bug，这是 feature。"* — Xtaiyang
->
-> *"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
->
-> *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
 
 </div>
 
