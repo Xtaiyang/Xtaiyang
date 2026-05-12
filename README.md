@@ -45,6 +45,24 @@
 
 ---
 
+---
+
+## 🤔 Xtaiyang 是谁？
+
+<div align="center">
+
+| 传说中... | 实际上... |
+|:---:|:---:|
+| 全栈工程师 🚀 | 复制粘贴工程师 📋 |
+| AI 大佬 🤖 | 调 API 大师 📞 |
+| K8s 管理员 ☸️ | kubectl 每次都百度 🧐 |
+| Vibe Coding 传人 ⚡ | 边听歌边写 bug 🎵 |
+| 语音识别专家 🎙️ | 和 Siri 吵架输了 🙃 |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -55,7 +73,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
@@ -63,7 +81,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
@@ -79,19 +96,18 @@
 ![MCP](https://img.shields.io/badge/MCP-2088FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005C84?style=for-the-badge&logo=onnx&logoColor=white)
 
-### Speech & Robotics
+### Robotics
 
-![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-0A66C2?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-343434?style=for-the-badge&logo=ros&logoColor=white)
 
 ### Automation
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-6C5CE7?style=for-the-badge&logo=uipath&logoColor=white)
-![Workflow](https://img.shields.io/badge/Workflow_Engine-FF6B6B?style=for-the-badge&logo=airflow&logoColor=white)
 
 ### DevOps & Backend
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -124,5 +140,7 @@
 **感谢来访！** 🙏
 
 *我是 Xtaiyang，一个正在努力让 AI 帮我打工的程序员* 💪
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A7ADB&height=80&section=footer&text=Keep%20Vibe%20Coding&fontSize=18&fontColor=#1a1a2e&animation=twinkling" width="100%">
 
 </div>
