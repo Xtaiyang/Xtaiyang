@@ -45,34 +45,6 @@
 
 ---
 
----
-
-## 🤔 Xtaiyang 是谁？
-
-<div align="center">
-
-| 传说中... | 实际上... |
-|:---:|:---:|
-| 全栈工程师 🚀 | 复制粘贴工程师 📋 |
-| AI 大佬 🤖 | 调 API 大师 📞 |
-| K8s 管理员 ☸️ | kubectl 每次都百度 🧐 |
-| Vibe Coding 传人 ⚡ | 边听歌边写 bug 🎵 |
-| 语音识别专家 🎙️ | 和 Siri 吵架输了 🙃 |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtaiyang&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%">
-
-</div>
-
----
-
 ## 🛠️ 技术栈
 
 <div align="center">
@@ -90,9 +62,10 @@
 ### AI & LLM
 
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C7B7?style=for-the-badge&logo=adventofcode&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-E34F26?style=for-the-badge&logo=langchain&logoColor=white)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-7C3AED?style=for-the-badge&logo=contextio&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-2088FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005C84?style=for-the-badge&logo=onnx&logoColor=white)
 
