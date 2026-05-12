@@ -23,25 +23,22 @@
 
 ## 💬 语录
 
-<table>
-  <tr>
-    <td valign="middle" width="55%">
+<div align="center">
 
-> *"代码能跑就行，别问为什么。"* — Xtaiyang
->
-> *"这不是 bug，这是 feature。"* — Xtaiyang
->
-> *"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
->
-> *"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
+*"代码能跑就行，别问为什么。"* — Xtaiyang
 
-    </td>
-    <td valign="middle" width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/Xtaiyang/Xtaiyang/main/assets/log-in-girl.svg" width="280" alt="Xtaiyang Coding" onerror="this.src='https://raw.githubusercontent.com/Xtaiyang/Xtaiyang/main/log-in-girl.svg'">
-    </td>
-  </tr>
-</table>
+*"这不是 bug，这是 feature。"* — Xtaiyang
 
+*"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
+
+*"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
+
+</div>
+
+<!-- 图片展示 -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85" width="700" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" alt="Coding">
+</div>
 
 ---
 
