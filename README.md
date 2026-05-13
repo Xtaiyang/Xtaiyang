@@ -46,17 +46,17 @@
 
 <div align="center">
 
-#### Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### AI & LLM
+### AI & LLM
 
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C7B7?style=for-the-badge&logo=adventofcode&logoColor=white)
@@ -66,16 +66,16 @@
 ![MCP](https://img.shields.io/badge/MCP-2088FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005C84?style=for-the-badge&logo=onnx&logoColor=white)
 
-#### Robotics
+### Robotics
 
 ![ROS](https://img.shields.io/badge/ROS-343434?style=for-the-badge&logo=ros&logoColor=white)
 
-#### Automation
+### Automation
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-6C5CE7?style=for-the-badge&logo=uipath&logoColor=white)
 
-#### DevOps & Backend
+### DevOps & Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
