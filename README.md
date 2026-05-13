@@ -31,7 +31,7 @@
 
 *"AI 写的 bug 也是 bug。"*
 
-*"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
+*"让我康康..."*
 
 </div>
 
