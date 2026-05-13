@@ -25,13 +25,13 @@
 
 <div align="center">
 
-*"代码能跑就行，别问为什么。"* — Xtaiyang
+*"代码能跑就行，别问为什么。"*
 
-*"这不是 bug，这是 feature。"* — Xtaiyang
+*"这不是 bug，这是 feature。"*
+
+*"AI 写的 bug 也是 bug。"*
 
 *"让我康康..."* — Xtaiyang 的 Stack Overflow 时间
-
-*"AI 写的 bug 也是 bug。"* — Xtaiyang 的觉悟
 
 </div>
 
